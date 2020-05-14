@@ -1,5 +1,8 @@
 ## Distributed Collaborative Editing
 
+[<img src="https://www.code-inspector.com/project/8053/score/svg">](https://frontend.code-inspector.com/public/project/8053/Distributed-Collaborative-Editing/dashboard)
+[<img src="https://www.code-inspector.com/project/8053/status/svg">](https://frontend.code-inspector.com/public/project/8053/Distributed-Collaborative-Editing/dashboard)
+
 #### Compilazione sorgenti (Java 8)
 
 ```bash
